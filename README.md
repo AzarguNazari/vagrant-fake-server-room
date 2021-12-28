@@ -3,5 +3,5 @@
 ```shell
 vagrant up
 vagrant destroy
-vagrant up server-1
+vagrant up webserver-1
 ```
